@@ -131,7 +131,7 @@ git log > d4.log
 ---
 
 ## 🎥 Video
-A short >3 min long video demonstrating the structure of the code, tests, packaging and the Jupyter notebook.
+A short video demonstrating the structure of the code, tests, packaging and the Jupyter notebook.
 
 ---
 
