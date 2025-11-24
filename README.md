@@ -88,15 +88,17 @@ Tests include:
 
 Run all tests using:
 
-'''bash
+```bash
 tox
+```
 
 ---
 
 ## ▶️ How to run the example
 
-'''bash
+```bash
 python examples/run_example.py
+```
 
 ---
 
@@ -129,7 +131,7 @@ git log > d4.log
 ---
 
 ## 🎥 Video
-A three minute long video, explaining the code. 
+A short >3 min long video demonstrating the structure of the code, tests, packaging and the Jupyter notebook.
 
 ---
 
@@ -147,6 +149,3 @@ This project demonstrates:
 Deliverable 4 completed with all required components.
 
 ---
-
-
-
