@@ -1,3 +1,5 @@
+# Henny Brenden
+
 from walk.simulation import run_many
 
 if __name__ == "__main__":

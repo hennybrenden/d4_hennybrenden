@@ -1,3 +1,5 @@
+# Henny Brenden
+
 import random
 
 class SimulationResult:

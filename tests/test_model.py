@@ -1,3 +1,5 @@
+# Henny Brenden
+
 from walk.model import AlexWalk, SimulationResult
 
 def test_walk_reaches_destination():
@@ -8,4 +10,3 @@ def test_walk_reaches_destination():
     result = walk.run()
     assert isinstance(result, SimulationResult)
     assert result.destination == "pentagon"
-
