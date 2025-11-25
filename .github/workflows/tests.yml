@@ -1,15 +1,25 @@
+# Henny Brenden
+
 name: Run tests
 
-on: [push]
+on: [push, pull_request]
 
 jobs:
   test:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.12"
-      - run: pip install tox
-      - run: tox
+          python-version: "3.11"
 
+      - name: Install dependencies
+        run: |
+          pip install -e .
+          pip install pytest
+
+      - name: Run tests
+        run: pytest

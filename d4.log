@@ -1,0 +1,47 @@
+commit ea8830b7b684e0f2d74f916e32c29a775d9dd4f3
+Author: Henny Brenden <henny.brenden@gmail.com>
+Date:   Mon Nov 24 11:43:24 2025 +0100
+
+    legger til siste fineshing toutches
+
+commit c8fea60e81fb4473e38fa98d3184951286ed77af
+Author: Henny Brenden <henny.brenden@gmail.com>
+Date:   Mon Nov 24 10:50:49 2025 +0100
+
+    Liten fix i README
+
+commit a6dfdb72777a1cd4b764b5e7d58eb86c916bd6f2
+Author: Henny Brenden <henny.brenden@gmail.com>
+Date:   Mon Nov 24 10:43:50 2025 +0100
+
+    fikset litt småfeil
+
+commit c79127723346d5e21c027979efbfeaed696424cc
+Author: Henny Brenden <henny.brenden@gmail.com>
+Date:   Mon Nov 24 10:36:44 2025 +0100
+
+    prøve å lage ferdig README
+
+commit 390e3683fcc8fcd7184b1a2dea2ad568b551e0bb
+Author: Henny Brenden <henny.brenden@gmail.com>
+Date:   Mon Nov 24 09:52:22 2025 +0100
+
+    Add notebook
+
+commit f66d81a7ab3c731f7644312fa17861a05d01a962
+Author: Henny Brenden <henny.brenden@gmail.com>
+Date:   Mon Nov 24 09:37:01 2025 +0100
+
+    la til d4 struktur og kode
+
+commit bafb2df8c6c74b0a88aced3c167d60e633f4e1d0
+Author: Henny Brenden <henny.brenden@gmail.com>
+Date:   Mon Nov 24 09:33:36 2025 +0100
+
+    La til github actions worklflow
+
+commit bd7b741717afceac99f2c123789e5d6ffaaf2df1
+Author: Henny Brenden <henny.brenden@gmail.com>
+Date:   Mon Nov 24 09:24:08 2025 +0100
+
+    første commit for D4

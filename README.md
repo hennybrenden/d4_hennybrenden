@@ -28,7 +28,7 @@ The simulation models a random walk on a 1D axis from 0–100, with:
 - AudMax  
 - Kaia  
 
-Alex walks randomly each second, and may be absorbed at Pentagon or Kaia based on:
+Alex walks randomly each second, and may end up at Pentagon or Kaia based on:
 - `p_pentagon`
 - `p_kaia`
 
@@ -72,7 +72,7 @@ README.md                  # This file
 | `pyproject.toml` | Package definition & build config |
 | `tox.ini` | Test automation config |
 | `tests.yml` | GitHub Actions workflow for CI |
-| `d4.log` | Git log (created before submission) |
+| `d4.log` | Git log |
 | `*.whl` | Wheel file created using `python -m build` |
 | `video` | ≤3 minute project explanation video |
 ---
@@ -116,9 +116,10 @@ jupyter notebook examples/walk_experiments.ipynb
 
 ## 🏗️ How to build the wheel
 
-'''bash
+```bash
 pip install build
 python -m build
+```
 
 The wheel is created inside:
 dist/walk-0.1.0-py3-none-any.whl
